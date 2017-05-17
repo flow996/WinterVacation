@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinterVacation.Plugins", "WinterVacation.Plugins.csproj", "{930F8EC2-BC39-7C70-BEAD-CF91319D60B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinterVacation", "WinterVacation.csproj", "{B5457A95-7CA3-4A15-F87A-D395D5FA8287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinterVacation.Editor.Plugins", "WinterVacation.Editor.Plugins.csproj", "{932C5409-51D0-EABB-D114-491D33C6964E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinterVacation.Editor", "WinterVacation.Editor.csproj", "{8773D0EB-CE5F-B806-819E-BFEAE78108ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930F8EC2-BC39-7C70-BEAD-CF91319D60B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930F8EC2-BC39-7C70-BEAD-CF91319D60B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930F8EC2-BC39-7C70-BEAD-CF91319D60B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930F8EC2-BC39-7C70-BEAD-CF91319D60B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5457A95-7CA3-4A15-F87A-D395D5FA8287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5457A95-7CA3-4A15-F87A-D395D5FA8287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5457A95-7CA3-4A15-F87A-D395D5FA8287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5457A95-7CA3-4A15-F87A-D395D5FA8287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932C5409-51D0-EABB-D114-491D33C6964E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932C5409-51D0-EABB-D114-491D33C6964E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932C5409-51D0-EABB-D114-491D33C6964E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932C5409-51D0-EABB-D114-491D33C6964E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8773D0EB-CE5F-B806-819E-BFEAE78108ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8773D0EB-CE5F-B806-819E-BFEAE78108ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8773D0EB-CE5F-B806-819E-BFEAE78108ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8773D0EB-CE5F-B806-819E-BFEAE78108ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
